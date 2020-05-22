@@ -1,0 +1,7 @@
+#app {
+    height: 100vh;  /* height of the viewport */
+    display:flex; /* flexible responsive layout structure */
+    align-items: center; /* alignment for items inside the flexible container */
+    justify-content: center; /* property aligns the flexible container's items */
+    
+}
